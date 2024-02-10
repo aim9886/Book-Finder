@@ -107,7 +107,7 @@ html {
     height: 80px;
     animation: spin 1s linear infinite;
 }
-  
+
 @keyframes spin {
     0% { transform: rotate(0deg); }
     100% { transform: rotate(360deg); }
@@ -192,7 +192,7 @@ html {
     box-sizing: border-box;
     overflow-x: hidden;
     overflow-y: scroll;
-    -ms-overflow-style: none; 
+    -ms-overflow-style: none;
     scrollbar-width: none;
     font-size: 14px;
     border-top: 4px solid rgb(45, 159, 45);
@@ -266,7 +266,7 @@ html {
 .overlay-inner::-webkit-scrollbar {
     display: none;
 }
-  
+
 @media (max-width: 500px) {
     .container {
         justify-content: center;

@@ -3,8 +3,8 @@
 This is a Book Finder Web App using React Js.
 
 
-<img align="center" alt="" src="./Img/book finder.png">
-<img align="center" alt="" src="./Img/book finder 2.png">
+<img align="center" alt="" src="./Img/book-finder1.png">
+<img align="center" alt="" src="./Img/book-finder2.png">
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
